@@ -12,3 +12,5 @@ Get SSH key
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
+
+After executing the script, reboot the machine.
