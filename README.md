@@ -1,5 +1,5 @@
 # Ubuntu-Setup-Script
-Installs VSCode, docker, docker-compose, nodejs 16, git, latex, npm, yarn, go
+Installs VSCode, docker, docker-compose, nodejs 16, git, latex, npm, yarn, go, latex
 
 ## Github config
 ```
