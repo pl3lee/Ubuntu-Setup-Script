@@ -48,3 +48,4 @@ sudo apt install golang-go
 
 # Installs Latex
 sudo apt install texlive-full
+sudo apt-get install ttf-mscorefonts-installer
