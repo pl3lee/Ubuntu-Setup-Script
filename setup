@@ -49,3 +49,7 @@ sudo apt install golang-go
 # Installs Latex
 sudo apt install texlive-full
 sudo apt-get install ttf-mscorefonts-installer
+
+# Installs pip
+sudo apt install python3-pip
+pip install jupyterlab
